@@ -185,3 +185,5 @@ psql --username=freecodecamp --dbname=postgres
 ./queries.sh
 ./queries.sh
 __vsc_prompt_cmd_original
+git remote set-url origin https://github.com/SantoII-github/worldcup-db
+git add .
